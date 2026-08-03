@@ -120,7 +120,7 @@ export const BentoGridItem = ({
               </div>
               <div className="flex flex-col gap-3 md:gap-3 lg:gap-6">
                 <span className="lg:py-4 lg:px-3 py-4 px-3 rounded-lg text-center bg-[#10132e]" />
-                {['Node.JS', 'express.js', 'React'].map
+                {['React', 'Node.JS', 'Express.JS', ].map
                   ((item) => (
                     <span key={item} className=" py-2 lg:px-3 px-3 text-xs font-bold  opacity-50 lg:opacity-100  rounded-lg text-center  bg-[#10132E]">
                       {item}
