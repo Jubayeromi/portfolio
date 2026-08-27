@@ -95,14 +95,14 @@ export const projects = [
     iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://streambyomi.netlify.app/",
   },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "https://github.com/adrianhajdin/iphone",
-  // },
+  {
+    id: 4,
+    title: "Twitter Clone ",
+    des: "Built a Twitter-style social feed in React, consuming multiple public REST APIs (RandomUser, Unsplash) to render dynamic post data such as user names, avatars, headlines, and images.",
+    img: "/twitter.png",
+    iconLists: ["/html.svg", "/tail.svg", "/js.svg", "/re.svg"],
+    link: "https://twitter-clone-wwk7.onrender.com/",
+  },
 ];
 
 export const testimonials = [
